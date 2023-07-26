@@ -1,0 +1,32 @@
+\documentclass[100t]{article}
+\usepackage[spanish]{babel}
+
+% Title Page
+{{\Huge  \title{\textbf{Presentación}}}
+	{\large \author{Leonardo Peláez Ascención}}
+	
+	\begin{document}
+		\maketitle
+		\section{Introducción}
+		Este es el documento será la presentación sobre el contenido esencial del proyecto  Moogle!.
+		\section{Función principal}
+		Moogle! es una aplicación q su principal tarea es encontrar entre un cojunto de documentos de extensión .txt el de mayor relevancia  dado una query(frase o palabra).
+		\subsection{TF-IDF}
+		Para la búsqueda implementa el método TF-IDF(Term Frequency - Inverse Term Frequency), para asignarle un valor(Score) a cada documento en dependencia de los valores obtenidos. 
+		\subsubsection{TF}
+		Basándose en cada palabra de la búsqueda, el método se encarga de calcular la cantidad de veces que se repite en un documento entre la cantidad de palabras de ese documento y asi recorriendo por todos los documentos(este es el cálculo del TF que como se puede apreciar es único para cada documento). 
+		\begin{center}
+			$TF = n/D$
+		\end{center}
+		Donde 'n' es la cantidad de veces que se repite la palabra en el documento y 'D' es la cantidad de palabras que hay en el mismo documento 
+		\subsubsection{IDF}
+		A cada palabra se le calcula un valor dado por una ecuación logarítmica donde relaciona la cantidad de documentos que hay y dependiendo de en cuantos aparece(el valor del IDF es general en todo el documento).
+		\begin{center}
+			$IDF = \log (D/m)$
+		\end{center}
+		Donde 'D' es el total de documentos y 'm' es el valor de todos los documentos que contienen la palabra.
+		\section{Notas}
+		Este proyecto puede poseer otras funciones, aquí solo se habló de la esencial que debe cumplir y una explicación sencilla y breve de como lo hace posible. 
+		
+		
+	\end{document}          

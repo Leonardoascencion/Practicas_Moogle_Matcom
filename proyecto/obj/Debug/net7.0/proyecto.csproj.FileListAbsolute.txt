@@ -1,0 +1,15 @@
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\bin\Debug\net7.0\proyecto.exe
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\bin\Debug\net7.0\proyecto.deps.json
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\bin\Debug\net7.0\proyecto.runtimeconfig.json
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\bin\Debug\net7.0\proyecto.dll
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\bin\Debug\net7.0\proyecto.pdb
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\proyecto.csproj.AssemblyReference.cache
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\proyecto.AssemblyInfoInputs.cache
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\proyecto.AssemblyInfo.cs
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\proyecto.csproj.CoreCompileInputs.cache
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\proyecto.dll
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\refint\proyecto.dll
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\proyecto.pdb
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\proyecto.genruntimeconfig.cache
+D:\Documents\cibernetica real\Visual base code y C#\proyecto\obj\Debug\net7.0\ref\proyecto.dll

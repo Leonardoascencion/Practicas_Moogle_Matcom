@@ -1,0 +1,35 @@
+\documentclass[100t]{article}
+\usepackage[spanish]{babel}
+
+% Title Page
+{{\Huge  \title{\textbf{Informe}}}
+{\large \author{Leonardo Peláez Ascención}}
+
+\begin{document}
+\maketitle
+\section{Introducción}
+En este documento hablaré brevemente sobre los codigos esenciales implementados en mi proyecto de Moogle! los cuales estan destinados a en conjunto realizar la tarea explicada en la presentación general que se encuentra junto con ese documento.
+\subsection{Aclaración importante}
+Este proyecto no se encuentra terminado, está tan solo en la versión 0.1.5 de su desarrollo. No obstante seguiré adelante comentando lo que hay en el proyecto implementado y aparte lo q hablaré lo que tengo pensado implementar a futuro. Obviamente, cada vez que se actualice el código y se acerque a su estado final,este documento será editado agregando las funcioalidades existentes.
+\section{Implementado}
+Esta sección hablará solo de los codigos implementados.
+\subsection{Query}
+Por muy sencillo que sea de implementar se encuentra, recibe una entranda del usuario y la almacena para luego usarla en la busqueda del documento mas relevante.
+\subsection{Matriz asociada a los archivos}
+En las primeras lienas del código esta implementado una manera de almacenar todos los documentos en una especie de matriz. Conformado por diccionarios asocia a cada título que encuentre su contenido respectivo.
+\section{No implementado}
+\subsection{Matriz TF-IDF}
+Se deberia crear una matriz donde a cada archivo se le asigne un valor de TF en cada documento, y un valor de IDF(su significado y como se calcula se encuentran en la presentación).
+\subsection{Snippet}
+Este código una vez devuelto el documento mas relevante, el programa muestra una porción del mismo.
+\subsection{Sugerencias}
+Aquí el programa se ejecuta en caso de que la query no pueda devolver ningún documento, en ese caso este se encargará de suegerir la búsqueda  de una frase o palabra parecida a la query la cual si aparecerá en uno o algunos de los documentos. 
+\section{Nota Final}
+Creo que estas son las partes mas importantes del codigo en cuestión. Si me falta alguna seguramente lo añadiré en una actualización. 
+\linebreak
+{\LARGE \textbf{\textit{Nuevamente resaltar mis disculpas por un proyecto incompleto y fuera de tiempo. Y en caso de que sí hay alguien leyendo, gracias por leer hasta el final.}}}
+
+
+
+
+\end{document}
